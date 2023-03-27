@@ -12,3 +12,15 @@
 I'm interested in Web development. I'm currently practicing myself in Sololearn.
 
 [My Sololearn profile](https://www.sololearn.com/profile/18306728)
+
+### *Things that I love to do in my free time are here below*
+
+- Reading books
+- Watching movies
+- Walking
+- Playing football
+- Listening music
+
+> Making a choice that is 1% better or 1% worse seems insignificant in the moment, but over the span of
+moments that make up a lifetime these choices determine the differences between who you are and who you could be.
+**"Atomic habits"**
