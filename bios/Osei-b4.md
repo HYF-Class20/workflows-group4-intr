@@ -32,8 +32,9 @@ experience. I am ready to acquire the knowledge. I am very passionate about
 
    [Github]<https://github.com/Osei-b4>
 
-  |**__ I lik to  watch ``coding videos on youtube`` sach as 
+  **_I lik to  watch ``coding videos on youtube`` sach as_**
   
   | JAVESCRIPT | HTML | CSS |
   | --- | --- | --- |
-  | RUBY | C+ | PYTHON |
+  | RUBY | C++ | PYTHON |
+  | C# | SQL | PHP |
