@@ -12,4 +12,4 @@ wants to take a journey in the **WEB DEVELOPMENT** world.
 - [x] I am **Trustworthy, Honourable and Honest** person.
 - [x] I like to watch funny comedies and great series.
 
-![My moto] (./img/)
+![My moto](./img/freedom%20is%20pricelss.3.jpg)
