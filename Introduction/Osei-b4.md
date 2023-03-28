@@ -8,5 +8,5 @@
   - [x] I am  __Trustworthy, Honourable and Honest__ person.
   - [x] I like to watch funny comedies and great series. 
 
-  [My moto](./img/freedom%20is%20pricelss2.jpg)
+  ![My moto](./img/freedom%20is%20pricelss2.jpg)
 
