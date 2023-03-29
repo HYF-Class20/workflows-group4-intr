@@ -1,4 +1,4 @@
-npm{
+{
   "name": "template-markdown",
   "version": "1.0.0",
   "description": "starter repository for markdown projects at HYF Belgium",
@@ -12,9 +12,9 @@ npm{
   "author": "HYF Belgium",
   "license": "MIT",
   "devDependencies": {
+    "@ls-lint/ls-lint": "^1.10.0",
     "cspell": "^5.9.0",
-    "markdownlint-cli": "^0.28.1",
-    "prettier": "^2.3.2",
-    "@ls-lint/ls-lint": "^1.10.0"
+    "markdownlint-cli": "^0.33.0",
+    "prettier": "^2.3.2"
   }
 }
