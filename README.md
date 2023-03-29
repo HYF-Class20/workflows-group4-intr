@@ -31,8 +31,6 @@ Here are the steps we needed to do to complete this project:
 
 ---
 
-![in code we trust](./group4/img/code.jpg)
-
 ## What we learnt:
 
 - How to create a new `Repo` from a template one.
