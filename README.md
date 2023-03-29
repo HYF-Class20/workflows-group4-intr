@@ -46,4 +46,3 @@ that your code will pass before pushing by running `npm run lint:md` locally.
     merging_"
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
-
