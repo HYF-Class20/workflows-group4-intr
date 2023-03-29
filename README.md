@@ -6,6 +6,8 @@ The project we are doing is done by Group4 of class 20 at HYFBE. This project is
 about getting to ourslves to in the community of Developers. The group contsists
 of this members:
 
+![together we can](./Introduction/img/Thank%20you.png)
+
 ## Instructions:
 
 Here are the steps we needed to do to complete this project:
