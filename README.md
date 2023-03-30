@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # (project name)
 
 <!-- describe your project -->
@@ -89,4 +87,3 @@ Here are the steps we needed to do to complete this project:
 - How to protect the `repo`'s `master` branch.
 - How to create a `Project Board` and use it.
 - How to work as a `Team` on the same project.
-  > > > > > > > d4ec49e60c33ed739c5fbe5a04244ed258704a58
