@@ -54,8 +54,8 @@ that your code will pass before pushing by running `npm run lint:md` locally.
 ## Description
 
 The project we are doing is done by Group4 of class 20 at HYFBE. This project is
-about getting to ourslves to in the community of Developers. The group contsists
-of this members:
+about getting to know ourselves in the community of Developers. The group
+consists of this members:
 
 ![together we can](./Introduction/img/Thank%20you.png)
 
