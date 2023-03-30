@@ -6,6 +6,8 @@ December 2019, I came to Belgium and now I live in Antwerpen.
 
 ![ my-image ](./img/my-image.jpg)
 
+<img src="./img/my-image.jpg" width="100" height="200">
+
 ## _I can speak four languages_
 
 1. Tigringa
