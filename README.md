@@ -10,7 +10,7 @@ contsists of this members:
 
 [Osei-b4]
 
-![together we can]()
+![together we can](./img/we%20can.png)
 
 ## Instructions
 
