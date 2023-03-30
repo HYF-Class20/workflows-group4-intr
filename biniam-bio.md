@@ -4,6 +4,8 @@ My name is _Biniam Andemariam_. I'm 27 years old. I was born and raised in
 Eritrea. I studied Finance in my country. I worked for one year as a teacher. In
 December 2019, I came to Belgium and now I live in Antwerpen.
 
+![ my-image ](./img/my-image.jpg)
+
 ## _I can speak four languages_
 
 1. Tigringa
