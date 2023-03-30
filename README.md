@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # (project name)
 
 <!-- describe your project -->
@@ -46,8 +47,8 @@ that your code will pass before pushing by running `npm run lint:md` locally.
   - The `master`/`main` branch must "_Require status checks to pass before
     merging_"
   - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
-=======
+    before merging_" =======
+
 # Group 4 class 20 Intro
 
 ## Description
@@ -88,4 +89,4 @@ Here are the steps we needed to do to complete this project:
 - How to protect the `repo`'s `master` branch.
 - How to create a `Project Board` and use it.
 - How to work as a `Team` on the same project.
->>>>>>> d4ec49e60c33ed739c5fbe5a04244ed258704a58
+  > > > > > > > d4ec49e60c33ed739c5fbe5a04244ed258704a58
